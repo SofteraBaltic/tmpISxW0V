@@ -1,0 +1,7 @@
+{
+  "doNotPublishApps": false,
+  "templateUrl": "https://github.com/SofteraBaltic/tmpHOT5wY-AppSource@main",
+  "type": "AppSource App",
+  "MicrosoftTelemetryConnectionString": "",
+  "useCompilerFolder": false
+}
